@@ -89,6 +89,9 @@ section {
 
 .img__section {
     width: 45%;
+    height: 70%;
+    overflow: hidden;
+    border-radius: 10px;
 }
 
 img {
