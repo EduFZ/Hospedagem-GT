@@ -224,7 +224,7 @@ footer {
 
     section {
         flex-direction: column;
-        overflow: hidden;
+        overflow: scroll;
     }
 
     .img__section {
